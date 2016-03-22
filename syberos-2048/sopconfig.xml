@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sopconfig xmlns:syberos="http://schemas.syberos.com/sop/res/syberos/v1" syberos:versionCode="1" syberos:sopid="com.syberos.syberos2048" syberos:shareUserId="" syberos:versionName="1.0.0">
+    <uses-sdk syberos:targetSdkVersion="" syberos:minSdkVersion=""/>
+    <application syberos:name="2048" syberos:icon="res/syberos2048.png" syberos:description="syberos 2048. " syberos:debuggable="true">
+        <uiapp syberos:name="" syberos:icon="res/syberos2048.png" syberos:launcher="true" syberos:splash="" syberos:background="" syberos:id="syberos2048" syberos:exec="bin/syberos2048"/>
+    </application>
+</sopconfig>
